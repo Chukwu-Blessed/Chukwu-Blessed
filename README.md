@@ -16,7 +16,7 @@ I'm Blessed from Nigeria, and I am a frontend and backend developer. I really en
 * <img src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-thumbnail.png" width="30"> HTML
 
 * <img src="https://toppng.com//public/uploads/preview/bootstrap-social-media-icons-html-css-js-logo-11563293145uql7yehdq3.png" width="30"> CSS
-REACT / NODE JS / JavaScript / HTML / CSS
+
 
 - 🔭 I’m currently working on Myself to become a better me Everyday 
 - 🌱 I’m currently learning Node.js 
