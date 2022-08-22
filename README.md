@@ -22,5 +22,5 @@ I'm Blessed from Nigeria, and I am a frontend and backend developer. I really en
 - 🌱 I’m currently learning Node.js 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Chukwu-Blessed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Chukwu-Blessed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GodBlessed)  
+[<img src='https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png' alt='github' height='40'>](https://github.com/Chukwu-Blessed)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40' color="blue">](https://www.linkedin.com/in/chukwu-blessed-312043151/)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png?w=360' alt='twitter' height='40'>](https://twitter.com/lightofbethel)  
 
