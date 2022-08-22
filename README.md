@@ -6,7 +6,7 @@
 
 I'm Blessed from Nigeria, and I am a frontend and backend developer. I really enjoy learning new languages and frameworks like JavaScript and Node.js, as well as work with Adobe Illustrator. I also enjoy Animations, reading books and Life itself.
 
-## Skills: 
+## Skills:
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30"> REACT
 
 * <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="30"> Node.js
