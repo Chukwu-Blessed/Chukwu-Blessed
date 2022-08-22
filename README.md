@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Chukwu Blessed
+#### FrontEnd || BackEnd Developer
+![FrontEnd || BackEnd Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Blessed from Nigeria, and I am a frontnd and backend developer. I really enjoy learning new languages and frameworks like JavaScript and Node.js, as well as work with Adobe Illustrator. I also enjoy Animations, reading books and Life itself. You can check out my twitter at https://twitter.com/LightOfBethel or my LinkedIn at https://www.linkedin.com/in/chukwu-blessed-312043151/
+I'm Blessed from Nigeria, and I am a frontend and backend developer. I really enjoy learning new languages and frameworks like JavaScript and Node.js, as well as work with Adobe Illustrator. I also enjoy Animations, reading books and Life itself.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chukwu-Blessed)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / NODE JS / JS / HTML / CSS
+
+- 🔭 I’m currently working on Myself to become a better me Everyday 
+- 🌱 I’m currently learning Node.js 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Chukwu-Blessed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Chukwu-Blessed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GodBlessed)  
+
