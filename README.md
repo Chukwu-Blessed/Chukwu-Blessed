@@ -26,9 +26,9 @@
 
 
 #### Hire Me
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1KRzc8VGugUr_yCgYhR1qZxD9SunXYU-o/view?usp=sharing)
-- :email: blessedchukwu89@gmail.com
-- [Check out my portfolio](https://chriscrea8.github.io/portfolio)
+<!-- - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1KRzc8VGugUr_yCgYhR1qZxD9SunXYU-o/view?usp=sharing) -->
+- :email: blessedchukwu89@gmail.com 
+<!-- - [Check out my portfolio](https://chriscrea8.github.io/portfolio) -->
 
 
 #### Profile Visits 
