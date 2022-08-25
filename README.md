@@ -27,13 +27,13 @@
 
 #### Hire Me
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1KRzc8VGugUr_yCgYhR1qZxD9SunXYU-o/view?usp=sharing)
-- :email: christianchukwu84@gmail.com
+- :email: blessedchukwu89@gmail.com
 - [Check out my portfolio](https://chriscrea8.github.io/portfolio)
 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chriscrea8.chriscrea8)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Chukwu-Blessed.Chukwu-Blessed)
 
 <details>
 <summary>
@@ -44,9 +44,9 @@
 
 #### Github Stats
 
-| ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscrea8&show_icons=true&theme=city_lights) | ![Christian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chriscrea8&theme=city-lights) |
+| ![Blessed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chukwu-Blessed&show_icons=true&theme=city_lights) | ![Blessed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chukwu-Blessed&theme=city-lights) |
 | :---: | :---: |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscrea8&theme=city_lights) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu-Blessed&theme=city_lights) |
 | :---: |
 </details>
