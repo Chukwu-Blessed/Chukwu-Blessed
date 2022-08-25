@@ -8,7 +8,7 @@
 
 [![Twitter: lightofbethel](https://img.shields.io/twitter/follow/lightofbethel?style=social)](https://twitter.com/LightOfBethel)
 [![Linkedin: Chukwu Blessed](https://img.shields.io/badge/-ChukwuBlessed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwu-blessed/)](https://www.linkedin.com/in/chukwu-blessed-312043151/)
-[![GitHub Chukwu-Blessed](https://img.shields.io/github/followers/Chukwu-Blessed?label=follow&style=social)](https://github.com/ZoDD-Script)
+[![GitHub ZoDD-Script](https://img.shields.io/github/followers/ZoDD-Script?label=follow&style=social)](https://github.com/ZoDD-Script)
 
 
 <!-- TODO: Add last video link -->
@@ -44,9 +44,9 @@
 
 #### Github Stats
 
-| ![Blessed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chukwu-Blessed&show_icons=true&theme=city_lights) | ![Blessed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chukwu-Blessed&theme=city-lights) |
+| ![Blessed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoDD-Script&show_icons=true&theme=city_lights) | ![Blessed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZoDD-Script&theme=city-lights) |
 | :---: | :---: |
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu-Blessed&theme=city_lights) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoDD-Script&theme=city_lights) |
 | :---: |
 </details>
