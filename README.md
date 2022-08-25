@@ -1,26 +1,52 @@
-![FrontEnd || BackEnd Developer](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)
+## Hi I'm Chukwu Blessed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-# Chukwu Blessed
-## FrontEnd || BackEnd Developer
+<img align='center' src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47cin8t8j2y8xv1mkfwxd6vemz2wrxayx6g5krejp3&rid=giphy.gif&ct=g" width="230">
 
+<p> <em> Full Stack Web Developer and Designer. </br> I Spend most of time coding outstanding projects or Designing great works. </em> </p>
 
-I'm Blessed from Nigeria, and I am a frontend and backend developer. I really enjoy learning new languages and frameworks like JavaScript and Node.js, as well as work with Adobe Illustrator. I also enjoy Animations, reading books and Life itself.
+:mailbox: Reach me on:
 
-## Skills:
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="30"> REACT
-
-* <img src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" width="30"> Node.js
-
-* <img src="https://flyclipart.com/thumb2/javascript-map-javascript-javascript-icon-with-png-892806.png" width="30"> JavaScript
-
-* <img src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-thumbnail.png" width="30"> HTML
-
-* <img src="https://toppng.com//public/uploads/preview/bootstrap-social-media-icons-html-css-js-logo-11563293145uql7yehdq3.png" width="30"> CSS
+[![Twitter: lightofbethel](https://img.shields.io/twitter/follow/lightofbethel?style=social)](https://twitter.com/LightOfBethel)
+[![Linkedin: Chukwu Blessed](https://img.shields.io/badge/-ChukwuBlessed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwu-blessed/)](https://www.linkedin.com/in/chukwu-blessed-312043151/)
+[![GitHub Chukwu-Blessed](https://img.shields.io/github/followers/Chukwu-Blessed?label=follow&style=social)](hhttps://github.com/Chukwu-Blessed)
 
 
-- 🔭 I’m currently working on Myself to become a better me Everyday 
-- 🌱 I’m currently learning Node.js 
+<!-- TODO: Add last video link -->
+
+- 🔭 I'm currently looking for new opportunities
+- 🤔 I’m looking for help with Outstanding Design ideas.
+- 😄 Pronouns: ZoddScript, He, Him.
+- ⚡ Fun fact: I love Animals.
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-[<img src='https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png' alt='github' height='40'>](https://github.com/Chukwu-Blessed)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40' color="blue">](https://www.linkedin.com/in/chukwu-blessed-312043151/)  [<img src='https://cdn-icons-png.flaticon.com/512/124/124021.png?w=360' alt='twitter' height='40'>](https://twitter.com/lightofbethel)  
+#### Hire Me
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1KRzc8VGugUr_yCgYhR1qZxD9SunXYU-o/view?usp=sharing)
+- :email: christianchukwu84@gmail.com
+- [Check out my portfolio](https://chriscrea8.github.io/portfolio)
 
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chriscrea8.chriscrea8)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+#### Github Stats
+
+| ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriscrea8&show_icons=true&theme=city_lights) | ![Christian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chriscrea8&theme=city-lights) |
+| :---: | :---: |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriscrea8&theme=city_lights) |
+| :---: |
+</details>
