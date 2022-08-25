@@ -8,7 +8,7 @@
 
 [![Twitter: lightofbethel](https://img.shields.io/twitter/follow/lightofbethel?style=social)](https://twitter.com/LightOfBethel)
 [![Linkedin: Chukwu Blessed](https://img.shields.io/badge/-ChukwuBlessed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwu-blessed/)](https://www.linkedin.com/in/chukwu-blessed-312043151/)
-[![GitHub Chukwu-Blessed](https://img.shields.io/github/followers/Chukwu-Blessed?label=follow&style=social)]()
+[![GitHub Chukwu-Blessed](https://img.shields.io/github/followers/Chukwu-Blessed?label=follow&style=social)](https://github.com/ZoDD-Script)
 
 
 <!-- TODO: Add last video link -->
