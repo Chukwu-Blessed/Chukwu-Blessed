@@ -1,6 +1,6 @@
 ## Hi I'm Chukwu Blessed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<img align='center' src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47cin8t8j2y8xv1mkfwxd6vemz2wrxayx6g5krejp3&rid=giphy.gif&ct=g" width="230">
+<img align='center' src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="400">
 
 <p> <em> Full Stack Web Developer and Designer. </br> I Spend most of time coding outstanding projects or Designing great works. </em> </p>
 
