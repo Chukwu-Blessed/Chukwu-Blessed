@@ -33,7 +33,7 @@
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Chukwu-Blessed.Chukwu-Blessed)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ZoDD-Script.ZoDD-Script)
 
 <details>
 <summary>
