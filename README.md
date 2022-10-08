@@ -26,9 +26,9 @@
 
 
 #### Hire Me
-<!-- - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1KRzc8VGugUr_yCgYhR1qZxD9SunXYU-o/view?usp=sharing) -->
+- :paperclip: [My Resume/CV](file:///C:/Users/ZoDD-Script/Desktop/Blessed%20Chukwu%20F.pdf)
 - :email: blessedchukwu89@gmail.com 
-<!-- - [Check out my portfolio](https://chriscrea8.github.io/portfolio) -->
+- [Check out my portfolio](https://zodd-script.github.io/Portfolio/)
 
 
 #### Profile Visits 
