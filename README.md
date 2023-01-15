@@ -26,7 +26,7 @@
 
 
 #### Hire Me
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1j2l0XXgP0KMtD2tKOd8a7kJ3GKEDOQzV/view?usp=share_link)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1g-ZyjSifln4qoUy7E_u5dO9ayflYiMtz/view?usp=share_link)
 - :email: blessedchukwu89@gmail.com 
 - [Check out my portfolio](https://zodd-script.github.io/Portfolio/)
 
